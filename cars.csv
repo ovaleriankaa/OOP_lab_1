@@ -1,0 +1,6 @@
+Type,Brand,LicensePlate,Year,Price,FuelConsumption,MaxSpeed,PassengerCapacity,HasChildSeat,HasLeather
+Economy,Daewoo Lanos,AA0001KA,2015,3000,8.5,160,4,true,false
+Economy,Renault Logan,BC1234AO,2019,5000,6.2,170,4,false,false
+Business,Toyota Camry,KA7777BB,2023,30000,9.0,220,4,false,true
+Business,Mercedes E-Class,AI9999II,2022,45000,8.0,250,4,false,true
+Economy,Skoda Fabia,CE5555BA,2017,4500,5.5,155,4,true,false
